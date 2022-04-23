@@ -1,0 +1,16 @@
+.main{
+    margin-top: 30px;
+}
+.main__add{
+    margin-left: 30px;
+    width: 50px;
+    height: 30px;
+    background: rgb(13, 165, 31);
+    color: white;
+    border:  none;
+    cursor: pointer;
+}
+.main__input{
+    padding: 10px;
+    outline: none;
+}
